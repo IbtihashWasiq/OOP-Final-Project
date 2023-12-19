@@ -1,0 +1,4 @@
+﻿  function.cpp
+C:\Users\Ahmed Chattha\Desktop\Codes\Assingment\No 1\Assingment no 1\Project2\Project2\function.cpp(127): warning C4715: 'Teacher::Login': not all control paths return a value
+C:\Users\Ahmed Chattha\Desktop\Codes\Assingment\No 1\Assingment no 1\Project2\Project2\function.cpp(524): warning C4715: 'Student::Login': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Ahmed Chattha\Desktop\Codes\Assingment\No 1\Assingment no 1\Project2\x64\Debug\Project2.exe

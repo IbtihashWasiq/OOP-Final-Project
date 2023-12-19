@@ -1,0 +1,6 @@
+Umar    Aftab    CS-0    CS    12/12/2016    umar123    aftab123    M    Bachelors    02123344102    Chiniot
+Muhammad    Ahmad    CS-1    CS    12/12/2019    ahmad123    ahmad123    M    PHD    03003388291    Lahore
+Affan    Rauf    CS-2    CS    12/12/2017    affan123    rauf123    M    Masters    03354551252    Chiniot
+Danish    Shehzad    CS-3    CS    12/12/2018    danish123    danish123    M    PHD    03356655432    Lahore
+Saba    Naseem    CS-4    CS    12/12/2017    saba123    saba123    F    Masters    03223344332    Faisalabad
+zain    Gondal    CS-5    CS    12    zain    gondal    M    MS    0300000000    Mandi
